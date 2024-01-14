@@ -2,7 +2,7 @@
 name = "CinemAIRecommender"
 version = "0.0.0"
 description = "CinemAIRecommender"
-authors = ["Dwaraknaath Varadharajan <dwarakvaradharajan@gmail.com>"]
+authors = ["Dwaraknaath Varadharajan"]
 license = "GPL-3.0"
 readme = "README.md"
 homepage = "https://github.com/dwarak98/CinemAIRecommender"
